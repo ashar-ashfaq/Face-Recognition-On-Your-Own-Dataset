@@ -10,7 +10,7 @@ This project allows you to train on your own images and perform live face recogn
 
 ## Demo
 
-![Demo](example/demo.gif)
+![Demo](examples/demo.gif)
 
 ## Setup Instructions
 
